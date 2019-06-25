@@ -1,2 +1,5 @@
+# Audio
 *.mp3
 *.wav
+*.flac
+*.ogg
